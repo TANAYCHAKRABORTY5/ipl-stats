@@ -1,0 +1,11 @@
+{
+    "name" : "My Chrome Extension",
+    "version": "1.0.0",
+    "description":"this is my first Extension",
+    "manifest_version":3,
+    "author":"Tanay",
+    "action":{
+        "default_popup": "index.html",
+        "default_title":"My chrome Extension"
+    }
+}

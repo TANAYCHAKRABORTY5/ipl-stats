@@ -1,0 +1,14 @@
+body {
+  min-width: 300px;
+  background-color: #034f84;
+}
+p {
+  color: white;
+}
+
+#matches {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
